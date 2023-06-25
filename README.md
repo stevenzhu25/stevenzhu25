@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven Zhu</h1>
-<h3 align="center">I've moved to a new username, and this is the placeholder one to prevent name squatting. Find me at @szhu25</h3>
+<h3 align="center">I've moved to a new username, and this is the placeholder one to prevent name squatting. Find me at <a href="https://github.com/szhu25">@szhu25</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szhu25&label=Profile%20views&color=0e75b6&style=flat" alt="szhu25" /> </p>
 
